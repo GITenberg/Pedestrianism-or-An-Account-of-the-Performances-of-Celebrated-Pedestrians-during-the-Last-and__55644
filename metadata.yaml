@@ -1,11 +1,16 @@
 _repo: Pedestrianism-or-An-Account-of-the-Performances-of-Celebrated-Pedestrians-during-the-Last-and__55644
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55644-h/images/cover.jpg
 creator:
   author:
     agent_name: Thom, Walter
     gutenberg_agent_id: '48435'
     url: http://www.gutenberg.org/2009/agents/48435
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55644#Pedestrianism-or-An-Account-of-the-Performances-of-Celebrated-Pedestrians-during-the-Last-and_
 gutenberg_issued: '2017-09-27'
 gutenberg_type: Text
 identifiers:
